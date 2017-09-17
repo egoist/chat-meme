@@ -1,0 +1,23 @@
+{
+  "name": "chat-meme",
+  "productName": "chat meme",
+  "version": "0.0.0",
+  "description": "my premium project",
+  "repository": {
+    "url": "egoist/chat-meme",
+    "type": "git"
+  },
+  "scripts": {
+    "test": "echo lol",
+    "build": "poi build",
+    "dev": "poi"
+  },
+  "author": "egoist <0x142857@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "downloadjs": "^1.4.7"
+  },
+  "devDependencies": {
+    "poi": "^9.3.5"
+  }
+}
